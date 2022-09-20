@@ -1,0 +1,9 @@
+Variety of tasks
+https://gitlab.com/qacdevops/python-exercises
+
+Easier tasks
+https://gitlab.com/qacdevops/python-pre-learning-tasks-published
+
+Good resource of online exercises
+https://codingbat.com/python
+
